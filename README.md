@@ -23,17 +23,17 @@ Repository of CAD project files for the [Haptic Harpsichord](https://github.com/
 
 ### Multiplexer
 
-- Datasheet
+[Datasheet](https://www.ti.com/lit/ds/symlink/cd4051b.pdf?ts=1744354849460&ref_url=https%253A%252F%252Fwww.google.com%252F)
 
 ### LEDs
 
-- Datasheet
+[Datasheet](https://cdn-shop.adafruit.com/datasheets/WS2812B.pdf)
 
 ### Rotary
 
-- Datasheet
+[Datasheet](https://dfimg.dfrobot.com/nobody/wiki/0385d189fd3e6dec54fda6e6658039e6.pdf)
 
 ### FRAM
 
-- Datasheet
+[Datasheet](https://www.fujitsu.com/us/Images/MB85RS64-DS501-00012-5v0-E.pdf)
 
