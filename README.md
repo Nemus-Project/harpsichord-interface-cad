@@ -1,4 +1,4 @@
-# Harpsichord Interface CAD
+# NEMUS Harpsichord Interface CAD
 Repository of CAD project files for the [Haptic Harpsichord](https://github.com/mhamilt/harpsichord-jack-tracking)
 
 ## Components
