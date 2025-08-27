@@ -10,6 +10,18 @@ Repository of CAD project files for the [Haptic Harpsichord](https://github.com/
 - CD4051BE multiplexer
 - WS2812B RGB LEDs
 
+## Schematics
+
+### Version 2
+
+| ![sensor board schematic](img/pcb_sensor_schematic_v2.jpg) |
+| :--------------------------------------------------------: |
+|                        Sensor Board                        |
+|                                                            |
+
+| ![controller board schematic](img/pcb_controller_schematic_v2.jpg) |
+| :----------------------------------------------------------------: |
+|                          Controller Board                          |
 
 ### Bill of Materials
 
